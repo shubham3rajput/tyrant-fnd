@@ -14,3 +14,4 @@ toml==0.10.1
 Werkzeug==1.0.1
 wrapt==1.12.1
 gunicorn==19.9.0
+nltk==3.5.0
