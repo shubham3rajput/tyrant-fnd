@@ -1,1 +1,2 @@
-web: gunicorn app:tyrant-fnd
+web: gunicorn app: tyrant-fnd
+
