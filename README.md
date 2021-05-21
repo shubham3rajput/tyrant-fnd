@@ -25,7 +25,3 @@ GOVERNMENT COLLEGE OF ENGINEERING NAGPUR, 441108.<br>
 
 
 
-<video width="320" height="240" autoplay>
-  <source src="https://uploads-ssl.webflow.com/608730b2bba495f24babe542/6087d37a2889133ff4af9c3f_Truth%20or%20Fake%202020-%204%20tips%20for%20detecting%20fake%20news_Trim-transcode.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
