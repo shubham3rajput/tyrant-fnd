@@ -1,0 +1,23 @@
+# tyrant-fnd
+
+THE MEGA PROJECT Entitled "FAKE NEWS DETECTION" 
+
+Submitted to Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
+in Partial Fulfillment of the Requirements for the Degree of BACHELOR OF ENGINEERING in COMPUTER SCIENCE AND ENGINEERING.
+
+
+By:
+
+1]INDRAKSHI BASU (ID 18065072)
+2]DEVYANI KADU (ID 17005022)
+3]PINAK ACHARYA (ID 17005001)
+4]SHRIKANT NIMKAR (ID 17005040)
+5]SHUBHAM RAJPUT(ID 17005046)
+
+
+
+Guide
+Prof. CHANDRAJEET BORKAR
+Department of Computer Science and Engineering,
+GOVERNMENT COLLEGE OF ENGINEERING NAGPUR 441108
+2020-2021
