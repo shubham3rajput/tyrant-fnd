@@ -1,6 +1,8 @@
 # tyrant-fnd
 
-THE MEGA PROJECT Entitled "FAKE NEWS DETECTION" 
+THE MEGA PROJECT Entitled 
+
+<h1>"FAKE NEWS DETECTION"</h1> 
 
 Submitted to Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
 in Partial Fulfillment of the Requirements for the Degree of BACHELOR OF ENGINEERING in COMPUTER SCIENCE AND ENGINEERING.
