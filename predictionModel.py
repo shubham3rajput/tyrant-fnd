@@ -10,7 +10,7 @@ import nltk
 nltk.data.path.append('./nltk_data')
 
 start = timeit.default_timer()
-with open("pickle/pipeline.pkl",'rb') as f:
+with open("./pickle/pipeline.pkl",'rb') as f:
         pipeline = pickle.load(f)
 
         stop = timeit.default_timer()
