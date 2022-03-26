@@ -4,10 +4,12 @@ THE MINI PROJECT Entitled
 <br>
 <h1>"FAKE NEWS DETECTION"</h1> 
 <br>
-Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
+
+Submitted to Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
 in Partial Fulfillment of the Requirements for
 the Degree of BACHELOR OF ENGINEERING in COMPUTER SCIENCE AND ENGINEERING.
-By:
+
+By:-
 
 <br>
 <li>SHUBHAM RAJPUT(ID 17005046)</li>
